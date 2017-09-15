@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="xiaofu.diswy.diswy.MainActivity">
+
+    <xiaofu.diswy.simplelibs.view.SimpleButton
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        app:sb_bg_color="#cfcf"
+        app:sb_border_color="#000"
+        app:sb_border_radius="5dp"
+        app:sb_border_width="3dp"
+        app:sb_disabled_color="#0403ef"
+        app:sb_hover_color="#ccc"
+        app:sb_shape="round_rect"
+        app:sb_showBorder="true"
+        app:sb_text="啦啦啦"
+        app:sb_text_bold="true"
+        app:sb_text_color="#333"
+        app:sb_text_size="18sp" />
+
+</LinearLayout>

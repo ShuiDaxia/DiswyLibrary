@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleButton">
+        <attr name="sb_shape" format="enum">
+            <enum name="round_rect" value="101"/>
+            <enum name="arc" value="102"/>
+            <enum name="rect" value="103"/>
+        </attr>
+        <attr name="sb_bg_color" format="color"/>
+        <attr name="sb_border_color" format="color"/>
+        <attr name="sb_text_color" format="color"/>
+        <attr name="sb_hover_color" format="color"/>
+        <attr name="sb_disabled_color" format="color"/>
+        <attr name="sb_border_width" format="dimension"/>
+        <attr name="sb_border_radius" format="dimension"/>
+        <attr name="sb_text_size" format="dimension"/>
+        <attr name="sb_text" format="string"/>
+        <attr name="sb_clickable" format="boolean"/>
+        <attr name="sb_showBorder" format="boolean"/>
+        <attr name="sb_text_bold" format="boolean"/>
+    </declare-styleable>
+</resources>
