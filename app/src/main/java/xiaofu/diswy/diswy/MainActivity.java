@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         // first push to Github
         //我把studio更新到2.3.3了
+        //我pull了,然后已经能显示上一条注释了
     }
 }

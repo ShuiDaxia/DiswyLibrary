@@ -5,8 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/Diswy.iml" filepath="$PROJECT_DIR$/Diswy.iml" />
       <module fileurl="file://$PROJECT_DIR$/DiswyLibrary.iml" filepath="$PROJECT_DIR$/DiswyLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/simplelibs/simplelibs.iml" filepath="$PROJECT_DIR$/simplelibs/simplelibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/simplelibs/simplelibs.iml" filepath="$PROJECT_DIR$/simplelibs/simplelibs.iml" />
     </modules>
   </component>
